@@ -4,10 +4,7 @@
 	"license": "MIT",
 	"description": "Cookie setter/getter for browser",
 	"main": "browser-cookie.js",
-	"author": [
-		"Craig Williams <craigdub746@gmail.com>",
-		"Lauri Rooden <lauri@rooden.ee>"
-	],
+	"author": "Craig Williams <craigdub746@gmail.com>",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/craigdub/browser-cookie-lite.git"
