@@ -1,5 +1,5 @@
 !function ($) {
-  var ready = require('browser-cookie')
+  var ready = require('browser-cookie-lite-ender')
   $.ender({domReady: ready})
   $.ender({
     ready: function (f) {
