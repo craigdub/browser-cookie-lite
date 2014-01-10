@@ -1,17 +1,20 @@
 {
-	"name": "browser-cookie-lite",
+	"name": "browser-cookie-lite-ender",
 	"version": "0.2.0",
 	"license": "MIT",
 	"description": "Cookie setter/getter for browser",
 	"main": "browser-cookie.js",
-	"author": "Lauri Rooden <lauri@rooden.ee>",
+	"author": [
+		"Craig Williams <craigdub746@gmail.com>",
+		"Lauri Rooden <lauri@rooden.ee>"
+	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/litejs/browser-cookie-lite.git"
+		"url": "git://github.com/craigdub/browser-cookie-lite.git"
 	},
 	"ender": "ender.js",
 	"bugs": {
-		"url": "https://github.com/litejs/browser-cookie-lite/issues"
+		"url": "https://github.com/craigdub/browser-cookie-lite/issues"
 	},
 	"keywords": [
 		"browser",
