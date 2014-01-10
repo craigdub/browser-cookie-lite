@@ -2,8 +2,8 @@
   var ready = require('browser-cookie-lite-ender')
   $.ender({cookie: Cookie})
   $.ender({
-    ready: function (f) {
-      ready(f)
+    Cookie: function (f) {
+      Cookie(f)
       return this
     }
   }, true)
